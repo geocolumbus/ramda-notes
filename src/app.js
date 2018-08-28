@@ -1,3 +1,3 @@
 const R = require('ramda');
 
-console.log(R.VERSION);
+console.log(R);

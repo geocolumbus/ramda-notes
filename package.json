@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Notes on the Ramda javascript framework",
   "main": "src/app.js",
+  "repository": "https://github.com/geocolumbus/ramda-notes.git",
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "geocolumbus@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
 }
